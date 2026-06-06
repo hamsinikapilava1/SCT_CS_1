@@ -46,5 +46,3 @@ User inputs are validated to ensure only correct numeric shift values
 are accepted, preventing runtime errors.
 
 ---
-
-## Project Structure
